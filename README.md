@@ -6,38 +6,40 @@
 
 ## Network:
 ### 1. Получите список сетевых интерфейсов машины, не отображая никаких деталей. Только список имен.
-[01]
+[01](https://github.com/do8rolyuboff/Init/blob/master/other/01.png)
 ### 2. Определите и отобразите характеристики интерфейса Ethernet:
 ###     (а) Определить широковещательный адрес
-[02a]
+[02a](https://github.com/do8rolyuboff/Init/blob/master/other/02(a).png)
 ###     (b) Определите все IP-адреса, которые являются частью одной подсети.
-[02b]
+[02b](https://github.com/do8rolyuboff/Init/blob/master/other/02(b).png)
 ### 3. Определите MAC-адрес карты Wi-Fi.
-[03]
+[03](https://github.com/do8rolyuboff/Init/blob/master/other/03.png)
 ### 4. Определите шлюз по умолчанию в таблице маршрутизации.
-[04]
+[04](https://github.com/do8rolyuboff/Init/blob/master/other/04.png)
 ### 5. Определите IP-адрес DNS, который отвечает на следующий URL: slash16.org
-[05]
+[05](https://github.com/do8rolyuboff/Init/blob/master/other/05.png)
 ### 6. Получить полный путь к файлу, который содержит IP-адрес DNS-сервера вы используете
-[06]('/etc/resolv.conf')
+`/etc/resolv.conf`
 ### 7. Запросите внешний DNS-сервер по доменному имени slash16.org (т. Е. Google. 8.8.8.8)
-[07]
+[07](https://github.com/do8rolyuboff/Init/blob/master/other/07.png)
 ### 8. Найдите поставщика slash16.org
-[08]
+`ost slash16.org' or 'nslookup slash16.org`
+`whois 13.33.242.162' or 'https://ipinfo.io/`
 ### 9. Найти внешний IP 42.fr
-[09]
+`163.172.250.12`
+`163.172.250.13`
 ### 10. Определите сетевые устройства между вашим компьютером и доменом slash16.org.
-[10]
+[10](https://github.com/do8rolyuboff/Init/blob/master/other/10.png)
 ### 11. Используйте вывод предыдущей команды, чтобы найти имя и IP-адрес устройство, которое устанавливает связь между вами (локальной сетью) и внешним миром
-[11]
+`192.168.30.1`
 ### 12. Найдите IP, который был назначен вам сервером DHCP
-[12]
+[12](https://github.com/do8rolyuboff/Init/blob/master/other/12.png)
 ### 13. Благодаря предыдущему вопросу и обратному DNS найдите имя вашего хоста
-[13]
+`host 192.168.29.78`
 ### 14. Какой файл содержит локальные записи DNS?
-[14]
+`/etc/hosts`
 ### 15. Переадресация адреса intra.42.fr на 46.19.122.85.
-[15]
+`46.19.122.85 intra.42.fr`
 
 ## System:
 (В этой работа происходить на виртуальной машине)
