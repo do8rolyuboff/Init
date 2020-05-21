@@ -6,12 +6,12 @@
 
 ## Network:
 ### 1. Получите список сетевых интерфейсов машины, не отображая никаких деталей. Только список имен.
-[01](https://github.com/do8rolyuboff/Init/blob/master/other/01.png)
+![01](https://github.com/do8rolyuboff/Init/blob/master/other/01.png)
 ### 2. Определите и отобразите характеристики интерфейса Ethernet:
 ###     (а) Определить широковещательный адрес
-[02a](https://github.com/do8rolyuboff/Init/blob/master/other/02(a).png)
+![02a](https://github.com/do8rolyuboff/Init/blob/master/other/02(a).png)
 ###     (b) Определите все IP-адреса, которые являются частью одной подсети.
-[02b](https://github.com/do8rolyuboff/Init/blob/master/other/02(b).png)
+![02b](https://github.com/do8rolyuboff/Init/blob/master/other/02(b).png)
 ### 3. Определите MAC-адрес карты Wi-Fi.
 [03](https://github.com/do8rolyuboff/Init/blob/master/other/03.png)
 ### 4. Определите шлюз по умолчанию в таблице маршрутизации.
