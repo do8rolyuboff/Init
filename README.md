@@ -136,4 +136,4 @@ SSH : ssh localhost`
 1. [Напишите скрипт, который отображает только логин, UID и путь каждой записи
 Файл / etc / passwd.](https://github.com/do8rolyuboff/Init/blob/master/scripts/01)
 2. [Напишите скрипт, который удаляет АКТИВНОГО пользователя на ВМ.](https://github.com/do8rolyuboff/Init/blob/master/scripts/02)
-3. [Три очарование. Напишите сценарий на ваш выбор.](https://github.com/do8rolyuboff/Init/blob/master/scripts/03)
+3. [Напишите сценарий на ваш выбор.](https://github.com/do8rolyuboff/Init/blob/master/scripts/03)
